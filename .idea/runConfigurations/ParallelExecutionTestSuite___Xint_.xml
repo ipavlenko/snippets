@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ParallelExecutionTestSuite (-Xint)" type="JUnit" factoryName="JUnit">
+    <module name="snippets" />
+    <option name="PACKAGE_NAME" value="parallel" />
+    <option name="MAIN_CLASS_NAME" value="parallel.ParallelExecutionTestSuite" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS" value="-ea -Xint" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
