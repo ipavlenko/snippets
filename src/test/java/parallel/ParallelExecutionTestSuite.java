@@ -7,6 +7,7 @@ import org.junit.platform.suite.api.Suite;
 @SelectClasses({
         ParallelExecutionPlainTest.class,
         ParallelExecutionVolatileTest.class,
+        ParallelExecutionSyncTest.class,
 })
 class ParallelExecutionTestSuite {
 }
